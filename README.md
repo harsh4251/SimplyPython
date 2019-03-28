@@ -1,1 +1,1 @@
-# pythonmaestro
+#python study projects
