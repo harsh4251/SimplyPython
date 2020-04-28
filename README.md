@@ -1,1 +1,1 @@
-python study projects
+Machine learning,Deep Learning & NLP Projects
